@@ -14,7 +14,7 @@ This project is a functional color palette that can be used to create pixel draw
 ---
 # Layout
 
-<img src="art-with-pixels.gif" alt="Pixels Art Board" style="width:70%;" />
+<img src="pixelsart.gif" alt="Pixels Art Board" style="width:100%;" />
 
 ---
 # Deployment / *Implantação*
