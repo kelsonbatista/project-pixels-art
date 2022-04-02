@@ -3,8 +3,44 @@
 }
 
 .color {
-  width: 50px;
-  height: 50px;
-  margin-right: 8px;
+  width: 40px;
+  height: 40px;
+  margin-right: 13px;
   border: 1px solid black;
+}
+
+#pixel-board {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pixel {
+  border: 1px solid black;
+  background-color: white;
+}
+
+#clear-board {
+  width: 150px;
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1em;
+  font-weight: 600;
+}
+
+#board-size {
+  width: 40px;
+  font-size: 1.3em;
+  height: 35px;
+  margin-right: 10px;
+  margin-top: 30px;
+}
+
+#generate-board {
+  width: 200px;
+  margin-top: 20px;
+  margin-right: 10px;
+  padding: 10px 20px;
+  font-size: 1em;
+  font-weight: 600;
 }
